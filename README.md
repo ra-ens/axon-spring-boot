@@ -8,7 +8,6 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 - Java 8 or higher
 - Maven
-- Git
 
 ## Getting Started
 
